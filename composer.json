@@ -2,6 +2,13 @@
   "name": "sergkash7/fdc-facade",
   "description": "Facade for USDA FoodData Central API",
   "homepage": "https://github.com/sergkash7/fdc-facade",
+  "keywords": [
+    "usda",
+    "food",
+    "data",
+    "center",
+    "api"
+  ],
   "authors": [
     {
       "name": "Sergey Kashin",
