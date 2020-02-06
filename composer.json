@@ -1,0 +1,24 @@
+{
+  "name": "sergkash7/fdc-facade",
+  "description": "Facade for USDA FoodData Central API",
+  "homepage": "https://github.com/sergkash7/fdc-facade",
+  "authors": [
+    {
+      "name": "Sergey Kashin",
+      "email": "sergkash@icloud.com",
+      "homepage": "https://instagram.com/kashin7",
+      "role": "Developer"
+    }
+  ],
+  "type": "library",
+  "require": {
+    "php": "^7.4",
+    "ext-json": "*"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "FdcFacade\\": "src/"
+    }
+  }
+}
